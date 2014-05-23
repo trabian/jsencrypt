@@ -1,3 +1,7 @@
+.idea
+_site
+_build
+node_modules
 *.pem
 project.properties
 project.xml
